@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет👋 
+Меня зовут Сергей и я начинающий тестировщик
+
 
 <!--
 **GvozdevSV/GvozdevSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
